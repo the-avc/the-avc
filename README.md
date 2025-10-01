@@ -29,7 +29,7 @@
 <!--others -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com//" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="git" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" width="40" height="40"/> </a>
