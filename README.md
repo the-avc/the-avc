@@ -39,4 +39,4 @@
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-avc&show_icons=true&locale=en&layout=compact" alt="the-avc" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-avc&show_icons=true&locale=en&layout=compact" alt="the-avc" /></p> -->
