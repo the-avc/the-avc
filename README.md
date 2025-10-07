@@ -1,4 +1,4 @@
-![logo](https://github.com/the-avc/the-avc/blob/main/githubBanner.png)
+![logo](https://github.com/the-avc/the-avc/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Vikram Chaudhary</h1>
 <h3 align="center">A passionate learner and programming enthusiast from India.</h3>
 
