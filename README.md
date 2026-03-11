@@ -3,7 +3,7 @@
 <h3 align="center">A passionate learner and programming enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-avc&label=Profile%20views&color=0e75b6&style=flat" alt="the-avc" /> </p>
-<img align="right" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"/>
 
 - 🌱 I’m currently learning **MERN stack and DSA**
 
